@@ -1,4 +1,4 @@
-import {LitElement, html} from 'lit-element/lit-element.js';
+import {LitElement, html} from 'https://unpkg.com/lit-element@2.0.0-rc.5/lit-element.js?module';
 import './components/TodoItem.js';
 
 export class Todo extends LitElement {
