@@ -1,0 +1,14 @@
+{
+  "name": "todo-app-lit-element",
+  "version": "0.0.1",
+  "dependencies": {
+    "lit-element": "^2.0.0-rc.3",
+    "@webcomponents/webcomponentsjs": "latest"
+  },
+  "devDependencies": {
+    "polymer-cli": "^1.7.1"
+  },
+  "scripts": {
+    "start": "polymer serve"
+  }
+}
